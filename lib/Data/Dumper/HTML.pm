@@ -2,7 +2,7 @@ package Data::Dumper::HTML;
 
 use strict;
 use warnings;
-use version;our $VERSION = qv('0.0.1');
+use version;our $VERSION = qv('0.0.2');
 
 use base 'Exporter';
 our @EXPORT_OK = qw(DumperHTML dumper_html);
